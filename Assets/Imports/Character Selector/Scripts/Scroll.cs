@@ -75,15 +75,18 @@ public class Scroll : MonoBehaviour
     }
     public void ButtonClick()
     {
-        if(EventSystem.current.currentSelectedGameObject.name == "Buy") // CODE FOR "BUY" BUTTON
+        PlayerSelection.selectedCarId = GetSelectedCarId();
+    }
+
+    private int GetSelectedCarId()
+    {
+        for (int i = 0; i < amount; i++)
         {
-            print("buy");
-            // WRITE HERE
+            if (parentScroll.transform.position.x < points[i].x && parentScroll.transform.position.x > points[i + 1].x)
+            {
+                return i;
+            }
         }
-        if(EventSystem.current.currentSelectedGameObject.name == "Select") // CODE FOR "SELECT" BUTTON
-        {
-            print("select");
-            // WRITE HERE
-        }
+        return 2;
     }
 }
