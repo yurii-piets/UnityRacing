@@ -2,7 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70f03b0a-34bd-429d-aeef-8f5aea6c6fe1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Character Selector/Scripts/Scroll.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/Character Selector/Scripts/Scroll.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityRacing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityRacing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/Billboard.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/Billboard.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_0.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_0.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Fronds_2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Fronds_2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Leaves_3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Leaves_3.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_0.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_0.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Fronds_2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Fronds_2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Leaves_3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Leaves_3.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Branches_0.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Branches_0.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Branches_1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Branches_1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Leaves_3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Leaves_3.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop.spm.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop.spm.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/asphalt-dirt.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/asphalt-dirt.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/asphalt.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/asphalt.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/bridge_wall.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/bridge_wall.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/cable-black.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/cable-black.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/concrete-floor.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/concrete-floor.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/dirt.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/dirt.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/metal-pole.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/metal-pole.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/metal_pole_sign.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/metal_pole_sign.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/mountain-wall.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/mountain-wall.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/stripes.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/stripes.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/tire.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/tire.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Models.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Models.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Models/FBX 2013.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Models/FBX 2013.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Models/FBX 2013/race-track.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Models/FBX 2013/race-track.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Models/LakeTerrain.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Models/LakeTerrain.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Models/electrical-towers.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Models/electrical-towers.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Models/race-track.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Models/race-track.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Models/road-signs.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Models/road-signs.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Models/rocks-mountain-1.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Models/rocks-mountain-1.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Models/rocks-mountain-2.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Models/rocks-mountain-2.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Models/tire.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Models/tire.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/arrow-green.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/arrow-green.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/arrow-red.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/arrow-red.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/asphalt-dirt.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/asphalt-dirt.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/asphalt-n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/asphalt-n.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/asphalt.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/asphalt.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/bridge_wall.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/bridge_wall.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/bridge_wall_n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/bridge_wall_n.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/concrete-floor-n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/concrete-floor-n.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/concrete-floor.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/concrete-floor.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/concrete-n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/concrete-n.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/concrete.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/concrete.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/dirt.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/dirt.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/dirt_n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/dirt_n.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/grass-n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/grass-n.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/grass.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/grass.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/mountain-wall-n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/mountain-wall-n.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/mountain-wall.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/mountain-wall.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/stone_wall.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/stone_wall.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/stone_wall_n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/stone_wall_n.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/stripes-n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/stripes-n.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/stripes.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/stripes.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/tire-n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/tire-n.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/tire.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/tire.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/race_track_lake.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/race_track_lake.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/readmore.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/readmore.txt.meta" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +78,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Imports/Character Selector/Scripts/Scroll.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="88" column="9" selection-start-line="88" selection-start-column="9" selection-end-line="88" selection-end-column="9" />
+            <state relative-caret-position="459">
+              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
               <folding>
                 <marker date="1558904307288" expanded="false" signature="6:72" ph="..." />
                 <marker date="1558904307288" expanded="true" signature="109:3612" ph="{...}" />
@@ -177,7 +240,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9608000" />
+    <option name="totallyTimeSpent" value="9720000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -352,8 +415,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Imports/Character Selector/Scripts/Scroll.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="88" column="9" selection-start-line="88" selection-start-column="9" selection-end-line="88" selection-end-column="9" />
+        <state relative-caret-position="459">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
           <folding>
             <marker date="1558904307288" expanded="false" signature="6:72" ph="..." />
             <marker date="1558904307288" expanded="true" signature="109:3612" ph="{...}" />

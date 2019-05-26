@@ -17,6 +17,9 @@
               <e p="Scroll.cs" t="Include" />
             </e>
           </e>
+          <e p="race-track-lake" t="Include">
+            <e p="readmore.txt" t="Include" />
+          </e>
           <e p="SampleScenes" t="Include">
             <e p="Menu" t="Include">
               <e p="Scripts" t="Include">
