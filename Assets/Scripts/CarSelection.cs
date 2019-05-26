@@ -1,16 +1,23 @@
-﻿using UnityEngine;
-using UnityEngine.SceneManagement;
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
-public class CarSelection : MonoBehaviour
+public class NewBehaviourScript : MonoBehaviour
 {
+
+    public void SelectCar()
+    {
+        //PlayerSelection.selectedCarId = null;
+    }
     // Start is called before the first frame update
     void Start()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        
     }
 
     // Update is called once per frame
     void Update()
     {
+        
     }
 }
