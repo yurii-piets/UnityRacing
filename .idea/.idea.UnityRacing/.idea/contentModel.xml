@@ -282,6 +282,7 @@
           <e p="readmore.txt" t="Include" />
         </e>
         <e p="Scripts" t="Include">
+          <e p="CarSelection.cs" t="Include" />
           <e p="FollowController.cs" t="Include" />
           <e p="MainMenu.cs" t="Include" />
           <e p="MercedesCarController.cs" t="Include" />
