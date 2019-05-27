@@ -21,6 +21,7 @@ public class TimeUpdate : MonoBehaviour
             minutes = (int)(Time.time / 60f);
             seconds = (int)(Time.time % 60f);
             timeText.text = "Lap Time: " + minutes.ToString("00") + ":" + seconds.ToString("00"); 
+
     }
 
 }
