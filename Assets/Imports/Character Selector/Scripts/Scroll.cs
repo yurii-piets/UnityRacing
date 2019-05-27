@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class Scroll : MonoBehaviour
@@ -76,6 +77,7 @@ public class Scroll : MonoBehaviour
     public void ButtonClick()
     {
         PlayerSelection.selectedCarId = GetSelectedCarId();
+        SceneManager.LoadScene("Test");
     }
 
     private int GetSelectedCarId()
