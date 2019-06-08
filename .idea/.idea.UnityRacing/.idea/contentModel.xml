@@ -294,7 +294,6 @@
           <e p="MapController.cs" t="Include" />
           <e p="MapSelection.cs" t="Include" />
           <e p="MapSettings.cs" t="Include" />
-          <e p="MercedesCarController.cs" t="Include" />
           <e p="PlayerSelection.cs" t="Include" />
           <e p="TimeUpdate.cs" t="Include" />
         </e>

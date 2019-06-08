@@ -2,485 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70f03b0a-34bd-429d-aeef-8f5aea6c6fe1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MapController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MapController.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityRacing/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityRacing/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityRacing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityRacing/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_-.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_-.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_0.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_0.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_1.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_1.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_2.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_2.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_3.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_3.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_4.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_4.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_5.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_5.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_6.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_6.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_7.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_7.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_8.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_8.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_9.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_9.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_A.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_A.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_B.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_B.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_C.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_C.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_D.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_D.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_E.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_E.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_F.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_F.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_G.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_G.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_H.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_H.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_I.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_I.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_J.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_J.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_K.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_K.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_L.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_L.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_M.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_M.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_N.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_N.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_O.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_O.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_P.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_P.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_Q.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_Q.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_R.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_R.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_S.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_S.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_T.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_T.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_U.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_U.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_V.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_V.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_W.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_W.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_X.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_X.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_Y.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_Y.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_Z.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Eu_Number_Z.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_-.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_-.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_0.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_0.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_1.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_1.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_2.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_2.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_3.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_3.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_4.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_4.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_5.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_5.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_6.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_6.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_7.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_7.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_8.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_8.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_9.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_9.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_A.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_A.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_B.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_B.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_C.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_C.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_D.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_D.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_E.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_E.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_F.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_F.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_G.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_G.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_H.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_H.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_I.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_I.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_J.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_J.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_K.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_K.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_L.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_L.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_M.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_M.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_N.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_N.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_O.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_O.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_P.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_P.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_Q.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_Q.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_R.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_R.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_S.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_S.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_T.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_T.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_U.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_U.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_V.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_V.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_W.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_W.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_X.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_X.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_Y.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_Y.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_Z.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Meshes/Materials/Numbers_License_Plate/Usa_Number_Z.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/BrakeDiscGlow.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/BrakeDiscGlow.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/LicensePlateEuAlbedo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/LicensePlateEuAlbedo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/LicensePlateEuMetallicSmoothness.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/LicensePlateEuMetallicSmoothness.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/LicensePlateEuNormal.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/LicensePlateEuNormal.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/LicensePlateUsAlbedo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/LicensePlateUsAlbedo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/LicensePlateUsMetallicSmoothness.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/LicensePlateUsMetallicSmoothness.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/LicensePlateUsNormal.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/LicensePlateUsNormal.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/MainAlbedo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/MainAlbedo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/MainMetallicSmoothness.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/MainMetallicSmoothness.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/MainNormal.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/MainNormal.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/NumberEUN.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/NumberEUN.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/NumberUEA.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/NumberUEA.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/NumberUSAA.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/NumberUSAA.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/NumberUSAN.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/NumberUSAN.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/Psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/Psd/LicensePlateEuAlbedo.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/Psd/LicensePlateEuAlbedo.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/Psd/LicensePlateUsAlbedo.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/Psd/LicensePlateUsAlbedo.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/Tire01Albedo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/Tire01Albedo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/Tire01MetallicSmoothness.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/Tire01MetallicSmoothness.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/Tire01Normal.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/Tire01Normal.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/WindowMetalness.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/WindowMetalness.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/WindowsAlbedo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Main/Textures/WindowsAlbedo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/README.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Demo.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Demo/SceneDriverEU.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Demo/SceneDriverEU.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Demo/SceneDriverUSA.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Demo/SceneDriverUSA.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Demo/SceneStaticEU.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Demo/SceneStaticEU.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Demo/SceneStaticUSA.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Demo/SceneStaticUSA.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Demo/demo.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Demo/demo.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/BlackWindows.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/BlackWindows.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/BodyAlbedo.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/BodyAlbedo.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/BrakeDiscGlow.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/BrakeDiscGlow.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Glass.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Glass.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/LicensePlateEuAlbedo.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/LicensePlateEuAlbedo.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/LicensePlateUsAlbedo.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/LicensePlateUsAlbedo.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/LightOn.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/LightOn.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/MainAlbedo.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/MainAlbedo.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Number_0.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Number_0.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Number_1.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Number_1.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Number_3.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Number_3.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Number_4.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Number_4.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Number_5.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Number_5.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Number_6.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Number_6.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Number_7.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Number_7.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Paint.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Paint.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Tire01Albedo.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Tire01Albedo.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Usa_Number_1.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Usa_Number_1.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Usa_Number_2.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Usa_Number_2.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Usa_Number_3.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Usa_Number_3.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Usa_Number_4.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Usa_Number_4.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Usa_Number_5.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Usa_Number_5.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Usa_Number_6.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Usa_Number_6.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Usa_Number_7.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Usa_Number_7.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Wheel.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/Wheel.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/WindowMetalness.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/Materials/WindowMetalness.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/SportCar20.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Meshes/SportCar20.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Prefabs/SportCar20_Driver_EU.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Prefabs/SportCar20_Driver_EU.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Prefabs/SportCar20_Driver_USA.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Prefabs/SportCar20_Driver_USA.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Prefabs/SportCar20_Static_EU.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Prefabs/SportCar20_Static_EU.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Prefabs/SportCar20_Static_USA.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Prefabs/SportCar20_Static_USA.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Textures/BodyAlbedo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Textures/BodyAlbedo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Textures/BodyMetallicSmoothness.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Textures/BodyMetallicSmoothness.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Textures/BodyNormal.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Textures/BodyNormal.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Textures/LightOn.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Textures/LightOn.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Textures/PaintAo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Textures/PaintAo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Textures/PaintNormal.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Best Sports CARS - Pro 3D Models/Vehicle/SportCar20/Textures/PaintNormal.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/FocE.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/FocE/FocE_Carbody08.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/FocE/FocE_Carbody08.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/FocE/FocE_Windows.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/FocE/FocE_Windows.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/_Common.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/_Common/Brackedisk.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/_Common/Brackedisk.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/_Common/Engine.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/_Common/Engine.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/_Common/Floor.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/_Common/Floor.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/_Common/Glass.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/_Common/Glass.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/_Common/Interior.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/_Common/Interior.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/_Common/Rim.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/_Common/Rim.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/_Common/RimIn.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/_Common/RimIn.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/_Common/Sidewall.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/_Common/Sidewall.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/_Common/Tread.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/_Common/Tread.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/_Common/wiring.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Materials/_Common/wiring.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Meshes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Meshes/Floor.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Meshes/Floor.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Meshes/FocE.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Meshes/FocE.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Meshes/Tires.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Meshes/Tires.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Prefabs/Floor.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Prefabs/Floor.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Prefabs/FocE08.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Prefabs/FocE08.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Prefabs/Tires.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Prefabs/Tires.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Scenes/FocE08.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Scenes/FocE08.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Scenes/Tires.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Scenes/Tires.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/FocE.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/FocE/FocE_Carbody08.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/FocE/FocE_Carbody08.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/FocE/FocE_Windows.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/FocE/FocE_Windows.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Brakedisc.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Brakedisc.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Engine.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Engine.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Engine_S.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Engine_S.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Glass.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Glass.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Interior.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Interior.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Interior_S.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Interior_S.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Rim.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Rim.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Sidewall.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Sidewall.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Sidewall_S.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Sidewall_S.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Tread.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Tread.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Tread_N.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Tread_N.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Tread_S.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/Tread_S.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/wiring.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Common/wiring.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Templates.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Templates/FocE_Carbody.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Modern_Touring_Carpack_Demo/Textures/_Templates/FocE_Carbody.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/CivilianVehicle05.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/CivilianVehicle05.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/BodyAlbedo.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/BodyAlbedo.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/Civil01A.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/Civil01A.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/Glass.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/Glass.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/InteriorAlbedo.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/InteriorAlbedo.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/LightAlbedo.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/LightAlbedo.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/LightOn.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/LightOn.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/Misc_Albedo.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/Misc_Albedo.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/Paint.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/Paint.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/WheelAlbedo.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/WheelAlbedo.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/Windows.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/Windows.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/WindowsBlack.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Materials/WindowsBlack.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Prefab/CivilianVehicle05.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Prefab/CivilianVehicle05.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Prefab/GameMercedes.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Prefab/GameMercedes.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Scene.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Scene/Scene.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Scene/Scene.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Scene/Scene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Scene/Scene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/BodyAlbedo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/BodyAlbedo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/BodyAo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/BodyAo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/BodyMetalness.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/BodyMetalness.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/BodyNormal.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/BodyNormal.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/Civil01A.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/Civil01A.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/Civil01M.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/Civil01M.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/Civil01N.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/Civil01N.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/InteriorAlbedo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/InteriorAlbedo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/InteriorAo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/InteriorAo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/InteriorMetalness.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/InteriorMetalness.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/InteriorNormal.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/InteriorNormal.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/LightAlbedo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/LightAlbedo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/LightAo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/LightAo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/LightMetalness.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/LightMetalness.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/LightNormal.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/LightNormal.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/LightOn.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/LightOn.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/WheelAlbedo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/WheelAlbedo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/WheelAo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/WheelAo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/WheelMetalness.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/WheelMetalness.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/WheelNormal.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Textures/WheelNormal.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Main.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Main/Textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Main/Textures/MiscMetalness.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Main/Textures/MiscMetalness.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Main/Textures/Misc_AO.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Main/Textures/Misc_AO.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Main/Textures/Misc_Albedo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Main/Textures/Misc_Albedo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Main/Textures/Misc_AlbedoGlow.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Main/Textures/Misc_AlbedoGlow.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Main/Textures/Misc_Normal.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Main/Textures/Misc_Normal.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Main/Textures/WindowMetalness.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Main/Textures/WindowMetalness.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Main/Textures/WindowNormal.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Main/Textures/WindowNormal.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Main/Textures/WindowsAlbedo.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Main/Textures/WindowsAlbedo.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/jungle-race-track/Scenes/sprint_track.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/jungle-race-track/Scenes/sprint_track.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/mountain-race-track/scene1-night.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/mountain-race-track/scene1-night.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Game.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Game.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Imports/C_Touring/Prefabs/GameTouring.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/C_Touring/Prefabs/GameTouring.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MapSettings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MapSettings.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/race_track_lake.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/race_track_lake.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MercedesCarController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MercedesCarController.cs.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -491,36 +18,105 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MapController.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Imports/Standard Assets/Vehicles/Car/Scripts/CarController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            <state relative-caret-position="339">
+              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
               <folding>
-                <marker date="1560008451398" expanded="true" signature="62:343" ph="{...}" />
-                <marker date="1560008451398" expanded="true" signature="134:341" ph="{...}" />
+                <marker date="1556742707815" expanded="false" signature="6:32" ph="..." />
+                <marker date="1556742707815" expanded="true" signature="76:13524" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="109:193" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="222:259" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="307:13522" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="2508:3042" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="2617:2734" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="3080:3528" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="3337:3394" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="3461:3518" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="3672:3742" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="3895:3966" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="4011:4532" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="4079:4312" ph="/* gear factor is a normalised representation of the current speed within the current gear's range of speeds. ... */" />
+                <marker date="1556742707815" expanded="true" signature="4571:5073" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="4594:4732" ph="/* calculate engine revs (for display / sound) ... */" />
+                <marker date="1556742707815" expanded="true" signature="5163:6664" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="5213:5506" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="5791:5892" ph="/* Set the steer on the front wheels. ... */" />
+                <marker date="1556742707815" expanded="true" signature="6175:6259" ph="/* Set the handbrake. ... */" />
+                <marker date="1556742707815" expanded="true" signature="6291:6502" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="6698:7337" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="6799:7327" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="7401:8824" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="7480:8312" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="7659:7775" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="8353:8814" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="8469:8584" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="8624:8800" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="8861:9719" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="8911:9188" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="9374:9656" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="9819:10041" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="10052:10304" ph="/* checks if the wheels are spinning and is so does three things ... */" />
+                <marker date="1556742707815" expanded="true" signature="10345:11473" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="10434:11463" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="10734:11156" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="10829:10961" ph="/* avoiding all four tires screeching at the same time ... */" />
+                <marker date="1556742707815" expanded="true" signature="11009:11108" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="11268:11355" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="11617:12736" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="11694:12726" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="11853:12030" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="12791:13236" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="12869:12956" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="12973:13226" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="13111:13212" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="13281:13516" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="13331:13480" ph="{...}" />
+                <marker date="1556742707815" expanded="true" signature="13397:13466" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Imports/Standard Assets/Vehicles/Car/Scripts/CarAudio.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1030">
+              <folding>
+                <marker date="1520267393000" expanded="false" signature="6:67" ph="..." />
+                <marker date="1520267393000" expanded="true" signature="111:8904" ph="{...}" />
+                <marker date="1520267393000" expanded="true" signature="202:8902" ph="{...}" />
+                <marker date="1520267393000" expanded="true" signature="217:1290" ph="/* This script reads some of the car's current properties and plays sounds accordingly. ... */" />
+                <marker date="1520267393000" expanded="true" signature="1363:1471" ph="{...}" />
+                <marker date="1520267393000" expanded="true" signature="3536:4289" ph="{...}" />
+                <marker date="1520267393000" expanded="true" signature="3952:4183" ph="{...}" />
+                <marker date="1520267393000" expanded="true" signature="4324:4563" ph="{...}" />
+                <marker date="1520267393000" expanded="true" signature="4455:4516" ph="{...}" />
+                <marker date="1520267393000" expanded="true" signature="4638:7947" ph="{...}" />
+                <marker date="1520267393000" expanded="true" signature="4955:5012" ph="{...}" />
+                <marker date="1520267393000" expanded="true" signature="5186:5244" ph="{...}" />
+                <marker date="1520267393000" expanded="true" signature="5277:7937" ph="{...}" />
+                <marker date="1520267393000" expanded="true" signature="5707:6018" ph="{...}" />
+                <marker date="1520267393000" expanded="true" signature="6039:7923" ph="{...}" />
+                <marker date="1520267393000" expanded="true" signature="6078:6204" ph="/* for 4 channel engine sound, it's a little more complex: ... */" />
+                <marker date="1520267393000" expanded="true" signature="8080:8654" ph="{...}" />
+                <marker date="1520267393000" expanded="true" signature="8825:8896" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C7033418-969C-409C-8CD1-4950555A0E6C/fc/86ecf20c/Object.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Imports/Standard Assets/Vehicles/Car/Scripts/CarUserControl.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="233" column="84" selection-start-line="233" selection-start-column="65" selection-end-line="233" selection-end-column="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MapSettings.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="102" selection-start-line="7" selection-start-column="102" selection-end-line="7" selection-end-column="102" />
+            <state relative-caret-position="-18">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
               <folding>
-                <marker date="1560008699886" expanded="true" signature="37:767" ph="{...}" />
-                <marker date="1560008699886" expanded="true" signature="90:460" ph="{...}" />
-                <marker date="1560008699886" expanded="true" signature="665:765" ph="{...}" />
+                <marker date="1556749084125" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556749084125" expanded="true" signature="122:871" ph="{...}" />
+                <marker date="1556749084125" expanded="true" signature="219:869" ph="{...}" />
+                <marker date="1556749084125" expanded="true" signature="330:439" ph="{...}" />
+                <marker date="1556749084125" expanded="true" signature="476:863" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -532,6 +128,7 @@
     <findStrings>
       <find>speed</find>
       <find>SceneManager.LoadScene(&quot;TrackSelectionMenu&quot;)</find>
+      <find>sound</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -543,7 +140,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MapController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/race-track-lake/Textures/arrow-green.png.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MercedesCarController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerSelection.cs" root0="FORCE_HIGHLIGHTING" />
@@ -623,6 +219,30 @@
             <path>
               <item name="" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Imports" type="1045f7f1:UnityExplorerNode" />
+              <item name="Standard Assets" type="1045f7f1:UnityExplorerNode" />
+              <item name="Vehicles" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Imports" type="1045f7f1:UnityExplorerNode" />
+              <item name="Standard Assets" type="1045f7f1:UnityExplorerNode" />
+              <item name="Vehicles" type="1045f7f1:UnityExplorerNode" />
+              <item name="Car" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Imports" type="1045f7f1:UnityExplorerNode" />
+              <item name="Standard Assets" type="1045f7f1:UnityExplorerNode" />
+              <item name="Vehicles" type="1045f7f1:UnityExplorerNode" />
+              <item name="Car" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
               <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
             </path>
           </expand>
@@ -687,7 +307,7 @@
       <workItem from="1558902499766" duration="947000" />
       <workItem from="1558962442794" duration="1523000" />
       <workItem from="1558966710614" duration="82000" />
-      <workItem from="1559991692322" duration="14038000" />
+      <workItem from="1559991692322" duration="17354000" />
     </task>
     <task id="LOCAL-00001" summary="scene refactor">
       <created>1560001387329</created>
@@ -700,7 +320,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27319000" />
+    <option name="totallyTimeSpent" value="30635000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -715,20 +335,20 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19509594" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19509594" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39978677" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.40405118" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32942432" />
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.32942432" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.33582088" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.17697228" />
       <window_info anchor="bottom" id="Unity" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Unit Tests" order="13" weight="0.32942432" />
@@ -865,27 +485,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MercedesCarController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <marker date="1556464249944" expanded="false" signature="6:78" ph="..." />
-            <marker date="1556464249944" expanded="true" signature="131:2371" ph="{...}" />
-            <marker date="1556464249944" expanded="true" signature="592:706" ph="{...}" />
-            <marker date="1556464249944" expanded="true" signature="738:886" ph="{...}" />
-            <marker date="1556464249944" expanded="true" signature="918:1495" ph="{...}" />
-            <marker date="1556464249944" expanded="true" signature="985:1031" ph="{...}" />
-            <marker date="1556464249944" expanded="true" signature="1044:1332" ph="{...}" />
-            <marker date="1556464249944" expanded="true" signature="1535:1751" ph="{...}" />
-            <marker date="1556464249944" expanded="true" signature="1830:2082" ph="{...}" />
-            <marker date="1556464249944" expanded="true" signature="2113:2232" ph="{...}" />
-            <marker date="1556464249944" expanded="true" signature="2285:2298" ph="{...}" />
-            <marker date="1556464249944" expanded="true" signature="2356:2369" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/FollowController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-374">
@@ -895,33 +494,6 @@
             <marker date="1558898714611" expanded="true" signature="615:762" ph="{...}" />
             <marker date="1558898714611" expanded="true" signature="820:854" ph="{...}" />
             <marker date="1558898714611" expanded="true" signature="884:1890" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Imports/Standard Assets/Vehicles/Car/Scripts/CarAudio.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1017">
-          <caret line="88" column="46" lean-forward="true" selection-start-line="88" selection-start-column="46" selection-end-line="88" selection-end-column="46" />
-          <folding>
-            <marker date="1520267393000" expanded="false" signature="6:67" ph="..." />
-            <marker date="1520267393000" expanded="true" signature="111:8904" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="202:8902" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="217:1290" ph="/* This script reads some of the car's current properties and plays sounds accordingly. ... */" />
-            <marker date="1520267393000" expanded="true" signature="1363:1471" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="3536:4289" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="3952:4183" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="4324:4563" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="4455:4516" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="4638:7947" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="4955:5012" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="5186:5244" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="5277:7937" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="5707:6018" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="6039:7923" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="6078:6204" ph="/* for 4 channel engine sound, it's a little more complex: ... */" />
-            <marker date="1520267393000" expanded="true" signature="8080:8654" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="8825:8896" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -990,9 +562,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C7033418-969C-409C-8CD1-4950555A0E6C/fc/86ecf20c/Object.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="233" column="84" selection-start-line="233" selection-start-column="65" selection-end-line="233" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MapController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <marker date="1560008451398" expanded="true" signature="62:343" ph="{...}" />
+            <marker date="1560008451398" expanded="true" signature="134:341" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MercedesCarController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MapSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="109" selection-start-line="6" selection-start-column="109" selection-end-line="6" selection-end-column="109" />
+          <folding>
+            <marker date="1560034124080" expanded="true" signature="37:794" ph="{...}" />
+            <marker date="1560034124080" expanded="true" signature="90:487" ph="{...}" />
+            <marker date="1560034124080" expanded="true" signature="692:792" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Imports/Standard Assets/Vehicles/Car/Scripts/CarUserControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <marker date="1556749084125" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556749084125" expanded="true" signature="122:871" ph="{...}" />
+            <marker date="1556749084125" expanded="true" signature="219:869" ph="{...}" />
+            <marker date="1556749084125" expanded="true" signature="330:439" ph="{...}" />
+            <marker date="1556749084125" expanded="true" signature="476:863" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Imports/Standard Assets/Vehicles/Car/Scripts/CarController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
+        <state relative-caret-position="339">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
           <folding>
             <marker date="1556742707815" expanded="false" signature="6:32" ph="..." />
             <marker date="1556742707815" expanded="true" signature="76:13524" ph="{...}" />
@@ -1048,45 +672,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Imports/Standard Assets/Vehicles/Car/Scripts/CarUserControl.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Imports/Standard Assets/Vehicles/Car/Scripts/CarAudio.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-1030">
           <folding>
-            <marker date="1556749084125" expanded="false" signature="6:78" ph="..." />
-            <marker date="1556749084125" expanded="true" signature="122:871" ph="{...}" />
-            <marker date="1556749084125" expanded="true" signature="219:869" ph="{...}" />
-            <marker date="1556749084125" expanded="true" signature="330:439" ph="{...}" />
-            <marker date="1556749084125" expanded="true" signature="476:863" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C7033418-969C-409C-8CD1-4950555A0E6C/fc/86ecf20c/Object.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="233" column="84" selection-start-line="233" selection-start-column="65" selection-end-line="233" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MapController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding>
-            <marker date="1560008451398" expanded="true" signature="62:343" ph="{...}" />
-            <marker date="1560008451398" expanded="true" signature="134:341" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MapSettings.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="102" selection-start-line="7" selection-start-column="102" selection-end-line="7" selection-end-column="102" />
-          <folding>
-            <marker date="1560008699886" expanded="true" signature="37:767" ph="{...}" />
-            <marker date="1560008699886" expanded="true" signature="90:460" ph="{...}" />
-            <marker date="1560008699886" expanded="true" signature="665:765" ph="{...}" />
+            <marker date="1520267393000" expanded="false" signature="6:67" ph="..." />
+            <marker date="1520267393000" expanded="true" signature="111:8904" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="202:8902" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="217:1290" ph="/* This script reads some of the car's current properties and plays sounds accordingly. ... */" />
+            <marker date="1520267393000" expanded="true" signature="1363:1471" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="3536:4289" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="3952:4183" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="4324:4563" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="4455:4516" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="4638:7947" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="4955:5012" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="5186:5244" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="5277:7937" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="5707:6018" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="6039:7923" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="6078:6204" ph="/* for 4 channel engine sound, it's a little more complex: ... */" />
+            <marker date="1520267393000" expanded="true" signature="8080:8654" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="8825:8896" ph="{...}" />
           </folding>
         </state>
       </provider>

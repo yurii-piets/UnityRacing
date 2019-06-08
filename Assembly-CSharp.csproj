@@ -169,7 +169,6 @@
     <Compile Include="Assets\Scripts\MapController.cs" />
     <Compile Include="Assets\Scripts\MapSelection.cs" />
     <Compile Include="Assets\Scripts\MapSettings.cs" />
-    <Compile Include="Assets\Scripts\MercedesCarController.cs" />
     <Compile Include="Assets\Scripts\PlayerSelection.cs" />
     <Compile Include="Assets\Scripts\TimeUpdate.cs" />
     <None Include="Assets\Imports\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
