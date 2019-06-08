@@ -166,6 +166,7 @@
     <Compile Include="Assets\Scripts\FollowController.cs" />
     <Compile Include="Assets\Scripts\Game.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
+    <Compile Include="Assets\Scripts\MapController.cs" />
     <Compile Include="Assets\Scripts\MapSelection.cs" />
     <Compile Include="Assets\Scripts\MapSettings.cs" />
     <Compile Include="Assets\Scripts\MercedesCarController.cs" />
@@ -220,7 +221,7 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader" />
     <None Include="Assets\Imports\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
     <None Include="Assets\Imports\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
-    <None Include="Assets\Imports\Best Sports CARS - Pro 3D Models\README.txt" />
+    <None Include="Assets\Imports\C_Sports\README.txt" />
     <None Include="Assets\Imports\Standard Assets\ParticleSystems\Shaders\PriorityParticleAdd.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="Assets\Imports\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularDisplacement.shader" />

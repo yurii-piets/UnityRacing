@@ -3,9 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class Game : MonoBehaviour
 {
-    public GameObject[] carPrefab;
-
-    // Start is called before the first frame update
+// Start is called before the first frame update
     void Start()
     {
 //        Instantiate(carPrefab[PlayerSelection.selectedSceneId], mapSettings[PlayerSelection.selectedSceneId].start, Quaternion.identity);
