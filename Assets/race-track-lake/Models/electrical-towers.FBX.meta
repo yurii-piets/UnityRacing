@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4ce779258d4e1e74cb8863ec073d6f84
+guid: 119e7cbc4c488d3489af3321790df466
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -25,12 +25,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: cable-black
-    second: {fileID: 2100000, guid: 1df7949db9a6438488eeb11b176f0886, type: 2}
+    second: {fileID: 2100000, guid: cd05f760df906824598c024d5122d8b0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: metal-pole
-    second: {fileID: 2100000, guid: 725e51bb7e3c11142b0b63c34b371036, type: 2}
+    second: {fileID: 2100000, guid: 8f61f408e6c628646a780609f69fa731, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

@@ -77,7 +77,7 @@ public class Scroll : MonoBehaviour
     public void ButtonClick()
     {
         PlayerSelection.selectedCarId = GetSelectedCarId();
-        SceneManager.LoadScene("Test");
+        SceneManager.LoadScene("GameScene");
     }
 
     private int GetSelectedCarId()

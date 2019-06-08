@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d49af56230b46c14c96b3969f2145586
+guid: ede185c5f5de97245805aa7203aa2680
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -13,7 +13,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: tires
-    second: {fileID: 2100000, guid: bf75ab482ce477b4c99657e237acd440, type: 2}
+    second: {fileID: 2100000, guid: 01926a09cbb1d6144b780fa058aa4c0f, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e651ee24f6e31664a8d6125fa293a760
+guid: 37586eacbd1feb9498da3962b9331068
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -13,7 +13,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: rock-rock
-    second: {fileID: 2100000, guid: 999ab35259948584e93b11b098d9ff30, type: 2}
+    second: {fileID: 2100000, guid: c1544e38420dc02469d6088831dfbf81, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

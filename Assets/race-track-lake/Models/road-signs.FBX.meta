@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b17ed07f6db20cc40a7405f217ac0fbe
+guid: c62ef029639d1ed499fcf4e61ef3d409
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -13,12 +13,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 02 - Default
-    second: {fileID: 2100000, guid: 738220e01f633f740b515656b72e091e, type: 2}
+    second: {fileID: 2100000, guid: 4d1c65cd28baedc47af4dd2cbd3b01bf, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: metal_pole_sign
-    second: {fileID: 2100000, guid: d85bb76bb91a1ac41985a3089c6c4457, type: 2}
+    second: {fileID: 2100000, guid: d3d4237e4bcb82c44b49fbb9d8765598, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
