@@ -2,72 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70f03b0a-34bd-429d-aeef-8f5aea6c6fe1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Game.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Prefab/GameMercedes.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Imports/Vehicle - pro 3d models/Civilian_vehicle_05/Prefab/GameMercedes.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MapSettings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MapSettings.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityRacing/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityRacing/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityRacing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityRacing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/Character Selector/Scripts/Scroll.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/Character Selector/Scripts/Scroll.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/jungle-race-track/Scenes/Sprint Track.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/jungle-race-track/Scenes/Sprint Track.unity.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/CarSelectionMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/CarSelectionMenu.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Test.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Test.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CarSelection.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CarSelection.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TimeUpdate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TimeUpdate.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/asphalt-dirt.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/asphalt-dirt.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/asphalt.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/asphalt.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/bridge_wall.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/bridge_wall.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/cable-black.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/cable-black.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/concrete-floor.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/concrete-floor.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/dirt.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/dirt.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/metal-pole.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/metal-pole.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/metal_pole_sign.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/metal_pole_sign.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/mountain-wall.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/mountain-wall.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/stripes.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/stripes.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Materials/tire.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Materials/tire.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Models.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Models.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Models/FBX 2013.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Models/FBX 2013.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Models/FBX 2013/race-track.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Models/FBX 2013/race-track.FBX.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Models/LakeTerrain.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Models/LakeTerrain.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Models/electrical-towers.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Models/electrical-towers.FBX.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Models/race-track.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Models/race-track.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Models/road-signs.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Models/road-signs.FBX.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Models/rocks-mountain-1.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Models/rocks-mountain-1.FBX.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Models/rocks-mountain-2.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Models/rocks-mountain-2.FBX.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Models/tire.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Models/tire.FBX.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/arrow-green.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/arrow-green.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/arrow-red.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/arrow-red.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/asphalt-dirt.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/asphalt-dirt.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/asphalt-n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/asphalt-n.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/asphalt.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/asphalt.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/bridge_wall.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/bridge_wall.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/bridge_wall_n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/bridge_wall_n.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/concrete-floor-n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/concrete-floor-n.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/concrete-floor.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/concrete-floor.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/concrete-n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/concrete-n.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/concrete.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/concrete.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/dirt.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/dirt.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/dirt_n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/dirt_n.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/grass-n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/grass-n.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/grass.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/grass.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/mountain-wall-n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/mountain-wall-n.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/mountain-wall.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/mountain-wall.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/stone_wall.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/stone_wall.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/stone_wall_n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/stone_wall_n.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/stripes-n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/stripes-n.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/stripes.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/stripes.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/tire-n.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/tire-n.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/Textures/tire.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/Textures/tire.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/race_track_lake.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/race_track_lake.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/readmore.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/readmore.txt.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Game.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Game.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MapSelection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MapSelection.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/race-track-lake/race_track_lake.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/race-track-lake/race_track_lake.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
-    <list id="267690ca-891b-4510-9dd0-4f74d73a9897" name="ignore" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,142 +25,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Imports/Character Selector/Scripts/Scroll.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="82" column="34" lean-forward="true" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
-              <folding>
-                <marker date="1559993622222" expanded="false" signature="6:107" ph="..." />
-                <marker date="1559993622222" expanded="true" signature="144:3692" ph="{...}" />
-                <marker date="1559993622222" expanded="true" signature="804:2267" ph="{...}" />
-                <marker date="1559993622222" expanded="true" signature="1025:1946" ph="{...}" />
-                <marker date="1559993622222" expanded="true" signature="1990:2252" ph="{...}" />
-                <marker date="1559993622222" expanded="true" signature="2286:3242" ph="{...}" />
-                <marker date="1559993622222" expanded="true" signature="2304:3101" ph="{...}" />
-                <marker date="1559993622222" expanded="true" signature="2358:3091" ph="{...}" />
-                <marker date="1559993622222" expanded="true" signature="2553:2862" ph="{...}" />
-                <marker date="1559993622222" expanded="true" signature="3124:3135" ph="{...}" />
-                <marker date="1559993622222" expanded="true" signature="3272:3389" ph="{...}" />
-                <marker date="1559993622222" expanded="true" signature="3425:3690" ph="{...}" />
-                <marker date="1559993622222" expanded="true" signature="3472:3666" ph="{...}" />
-                <marker date="1559993622222" expanded="true" signature="3602:3656" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Game.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-              <folding>
-                <marker date="1559993687079" expanded="false" signature="6:148" ph="..." />
-                <marker date="1559993687079" expanded="true" signature="183:578" ph="{...}" />
-                <marker date="1559993687079" expanded="true" signature="386:497" ph="{...}" />
-                <marker date="1559993687079" expanded="true" signature="555:576" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerSelection.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-              <folding>
-                <marker date="1558957574854" expanded="true" signature="35:142" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MainMenu.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <marker date="1558898714590" expanded="true" signature="6:53" ph="..." />
-                <marker date="1558898714590" expanded="true" signature="92:310" ph="{...}" />
-                <marker date="1558898714590" expanded="true" signature="122:212" ph="{...}" />
-                <marker date="1558898714590" expanded="true" signature="240:248" ph="{...}" />
-                <marker date="1558898714590" expanded="true" signature="273:308" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MercedesCarController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-              <folding>
-                <marker date="1556464249944" expanded="false" signature="6:78" ph="..." />
-                <marker date="1556464249944" expanded="true" signature="131:2371" ph="{...}" />
-                <marker date="1556464249944" expanded="true" signature="592:706" ph="{...}" />
-                <marker date="1556464249944" expanded="true" signature="738:886" ph="{...}" />
-                <marker date="1556464249944" expanded="true" signature="918:1495" ph="{...}" />
-                <marker date="1556464249944" expanded="true" signature="985:1031" ph="{...}" />
-                <marker date="1556464249944" expanded="true" signature="1044:1332" ph="{...}" />
-                <marker date="1556464249944" expanded="true" signature="1535:1751" ph="{...}" />
-                <marker date="1556464249944" expanded="true" signature="1830:2082" ph="{...}" />
-                <marker date="1556464249944" expanded="true" signature="2113:2232" ph="{...}" />
-                <marker date="1556464249944" expanded="true" signature="2285:2298" ph="{...}" />
-                <marker date="1556464249944" expanded="true" signature="2356:2369" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FollowController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-374">
-              <folding>
-                <marker date="1558898714611" expanded="true" signature="6:64" ph="..." />
-                <marker date="1558898714611" expanded="true" signature="111:1892" ph="{...}" />
-                <marker date="1558898714611" expanded="true" signature="615:762" ph="{...}" />
-                <marker date="1558898714611" expanded="true" signature="820:854" ph="{...}" />
-                <marker date="1558898714611" expanded="true" signature="884:1890" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MapSelection.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
-              <folding>
-                <marker date="1558902967015" expanded="true" signature="6:53" ph="..." />
-                <marker date="1558902967015" expanded="true" signature="96:372" ph="{...}" />
-                <marker date="1558902967015" expanded="true" signature="135:274" ph="{...}" />
-                <marker date="1558902967015" expanded="true" signature="299:323" ph="{...}" />
-                <marker date="1558902967015" expanded="true" signature="349:370" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>speed</find>
+      <find>SceneManager.LoadScene(&quot;TrackSelectionMenu&quot;)</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MapSettings.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Imports/race-track-lake/race-track-lake/Textures/arrow-green.png.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C7033418-969C-409C-8CD1-4950555A0E6C/65/c6317402/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imports/Standard Assets/Vehicles/Car/Scripts/CarAudio.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C7033418-969C-409C-8CD1-4950555A0E6C/87/d9a92f33/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FollowController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/race-track-lake/Textures/arrow-green.png.meta" root0="FORCE_HIGHLIGHTING" />
@@ -230,12 +61,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/FollowController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerSelection.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MapSelection.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TimeUpdate.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CarSelection.cs" />
         <option value="$PROJECT_DIR$/Assets/Imports/Character Selector/Scripts/Scroll.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MapSelection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MapSettings.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Game.cs" />
       </list>
     </option>
@@ -249,7 +81,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1956" />
+    <option name="x" value="326" />
     <option name="y" value="-8" />
     <option name="width" value="1440" />
     <option name="height" value="780" />
@@ -336,12 +168,12 @@
       <workItem from="1558902499766" duration="947000" />
       <workItem from="1558962442794" duration="1523000" />
       <workItem from="1558966710614" duration="82000" />
-      <workItem from="1559991692322" duration="2230000" />
+      <workItem from="1559991692322" duration="7987000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15511000" />
+    <option name="totallyTimeSpent" value="21268000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -353,8 +185,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19509594" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -362,14 +193,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39978677" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978677" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32942432" />
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.32942432" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.53944564" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.53944564" />
       <window_info anchor="bottom" id="Unity" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Unit Tests" order="13" weight="0.32942432" />
@@ -395,19 +226,6 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/Game.cs</url>
-          <line>16</line>
-          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Game.cs" initialLine="16">
-            <startOffsets>
-              <option value="401" />
-            </startOffsets>
-            <endOffsets>
-              <option value="491" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -467,19 +285,6 @@
     <entry file="file://$PROJECT_DIR$/Assets/Game.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FollowController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-374">
-          <folding>
-            <marker date="1558898714611" expanded="true" signature="6:64" ph="..." />
-            <marker date="1558898714611" expanded="true" signature="111:1892" ph="{...}" />
-            <marker date="1558898714611" expanded="true" signature="615:762" ph="{...}" />
-            <marker date="1558898714611" expanded="true" signature="820:854" ph="{...}" />
-            <marker date="1558898714611" expanded="true" signature="884:1890" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/TimeUpdate.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -490,6 +295,13 @@
             <marker date="1558963341280" expanded="true" signature="284:345" ph="{...}" />
             <marker date="1558963341280" expanded="true" signature="403:647" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CarSelection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -524,30 +336,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CarSelection.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FollowController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        <state relative-caret-position="-374">
+          <folding>
+            <marker date="1558898714611" expanded="true" signature="6:64" ph="..." />
+            <marker date="1558898714611" expanded="true" signature="111:1892" ph="{...}" />
+            <marker date="1558898714611" expanded="true" signature="615:762" ph="{...}" />
+            <marker date="1558898714611" expanded="true" signature="820:854" ph="{...}" />
+            <marker date="1558898714611" expanded="true" signature="884:1890" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Imports/Standard Assets/Vehicles/Car/Scripts/CarAudio.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1017">
+          <caret line="88" column="46" lean-forward="true" selection-start-line="88" selection-start-column="46" selection-end-line="88" selection-end-column="46" />
+          <folding>
+            <marker date="1520267393000" expanded="false" signature="6:67" ph="..." />
+            <marker date="1520267393000" expanded="true" signature="111:8904" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="202:8902" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="217:1290" ph="/* This script reads some of the car's current properties and plays sounds accordingly. ... */" />
+            <marker date="1520267393000" expanded="true" signature="1363:1471" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="3536:4289" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="3952:4183" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="4324:4563" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="4455:4516" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="4638:7947" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="4955:5012" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="5186:5244" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="5277:7937" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="5707:6018" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="6039:7923" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="6078:6204" ph="/* for 4 channel engine sound, it's a little more complex: ... */" />
+            <marker date="1520267393000" expanded="true" signature="8080:8654" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="8825:8896" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MapSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <marker date="1560001221175" expanded="true" signature="37:538" ph="{...}" />
+            <marker date="1560001221175" expanded="true" signature="90:336" ph="{...}" />
+            <marker date="1560001221175" expanded="true" signature="470:536" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Game.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+          <folding>
+            <marker date="1560001226238" expanded="true" signature="6:53" ph="..." />
+            <marker date="1560001226238" expanded="true" signature="88:537" ph="{...}" />
+            <marker date="1560001226238" expanded="true" signature="196:465" ph="{...}" />
+            <marker date="1560001226238" expanded="true" signature="523:535" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MapSelection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <marker date="1559997621122" expanded="true" signature="6:53" ph="..." />
+            <marker date="1559997621122" expanded="true" signature="96:346" ph="{...}" />
+            <marker date="1559997621122" expanded="true" signature="135:248" ph="{...}" />
+            <marker date="1559997621122" expanded="true" signature="273:297" ph="{...}" />
+            <marker date="1559997621122" expanded="true" signature="323:344" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MainMenu.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="136">
+          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
           <folding>
-            <marker date="1558898714590" expanded="true" signature="6:53" ph="..." />
-            <marker date="1558898714590" expanded="true" signature="92:310" ph="{...}" />
-            <marker date="1558898714590" expanded="true" signature="122:212" ph="{...}" />
-            <marker date="1558898714590" expanded="true" signature="240:248" ph="{...}" />
-            <marker date="1558898714590" expanded="true" signature="273:308" ph="{...}" />
+            <marker date="1559997601048" expanded="true" signature="6:53" ph="..." />
+            <marker date="1559997601048" expanded="true" signature="92:286" ph="{...}" />
+            <marker date="1559997601048" expanded="true" signature="122:188" ph="{...}" />
+            <marker date="1559997601048" expanded="true" signature="216:224" ph="{...}" />
+            <marker date="1559997601048" expanded="true" signature="249:284" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Imports/Character Selector/Scripts/Scroll.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="82" column="34" lean-forward="true" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
+        <state relative-caret-position="140">
+          <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="44" />
           <folding>
             <marker date="1559993622222" expanded="false" signature="6:107" ph="..." />
             <marker date="1559993622222" expanded="true" signature="144:3692" ph="{...}" />
@@ -563,33 +448,6 @@
             <marker date="1559993622222" expanded="true" signature="3425:3690" ph="{...}" />
             <marker date="1559993622222" expanded="true" signature="3472:3666" ph="{...}" />
             <marker date="1559993622222" expanded="true" signature="3602:3656" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Game.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <marker date="1559993687079" expanded="false" signature="6:148" ph="..." />
-            <marker date="1559993687079" expanded="true" signature="183:578" ph="{...}" />
-            <marker date="1559993687079" expanded="true" signature="386:497" ph="{...}" />
-            <marker date="1559993687079" expanded="true" signature="555:576" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MapSelection.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
-          <folding>
-            <marker date="1558902967015" expanded="true" signature="6:53" ph="..." />
-            <marker date="1558902967015" expanded="true" signature="96:372" ph="{...}" />
-            <marker date="1558902967015" expanded="true" signature="135:274" ph="{...}" />
-            <marker date="1558902967015" expanded="true" signature="299:323" ph="{...}" />
-            <marker date="1558902967015" expanded="true" signature="349:370" ph="{...}" />
           </folding>
         </state>
       </provider>

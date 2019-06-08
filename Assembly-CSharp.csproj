@@ -167,6 +167,7 @@
     <Compile Include="Assets\Scripts\Game.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\Scripts\MapSelection.cs" />
+    <Compile Include="Assets\Scripts\MapSettings.cs" />
     <Compile Include="Assets\Scripts\MercedesCarController.cs" />
     <Compile Include="Assets\Scripts\PlayerSelection.cs" />
     <Compile Include="Assets\Scripts\TimeUpdate.cs" />

@@ -6,7 +6,7 @@ public class MapSelection : MonoBehaviour
     public void SelectMap(int mapId)
     {
         PlayerSelection.selectedSceneId = mapId;
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene("CarSelectionMenu");
     }
 
     public void Start()
