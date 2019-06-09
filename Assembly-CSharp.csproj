@@ -59,15 +59,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Arcade_Car_Physics\Scripts\DemoScripts\CameraFollow.cs" />
-    <Compile Include="Assets\Arcade_Car_Physics\Scripts\DemoScripts\CheckPointEvent.cs" />
-    <Compile Include="Assets\Arcade_Car_Physics\Scripts\DemoScripts\RaceTrackCheckpointsManager.cs" />
-    <Compile Include="Assets\Arcade_Car_Physics\Scripts\EngineSoundManager.cs" />
-    <Compile Include="Assets\Arcade_Car_Physics\Scripts\Ghost.cs" />
-    <Compile Include="Assets\Arcade_Car_Physics\Scripts\Suspension.cs" />
-    <Compile Include="Assets\Arcade_Car_Physics\Scripts\Trails\Trail.cs" />
-    <Compile Include="Assets\Arcade_Car_Physics\Scripts\Trails\TrailEmitter.cs" />
-    <Compile Include="Assets\Arcade_Car_Physics\Scripts\WheelVehicle.cs" />
     <Compile Include="Assets\Imports\Character Selector\Scripts\Scroll.cs" />
     <Compile Include="Assets\Imports\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
     <Compile Include="Assets\Imports\SampleScenes\Menu\Scripts\PauseMenu.cs" />
@@ -172,6 +163,7 @@
     <Compile Include="Assets\Imports\Standard Assets\Vehicles\Car\Scripts\SkidTrail.cs" />
     <Compile Include="Assets\Imports\Standard Assets\Vehicles\Car\Scripts\Suspension.cs" />
     <Compile Include="Assets\Imports\Standard Assets\Vehicles\Car\Scripts\WheelEffects.cs" />
+    <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\FollowController.cs" />
     <Compile Include="Assets\Scripts\Game.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
@@ -180,6 +172,7 @@
     <Compile Include="Assets\Scripts\MapSettings.cs" />
     <Compile Include="Assets\Scripts\PlayerSelection.cs" />
     <Compile Include="Assets\Scripts\TimeUpdate.cs" />
+    <Compile Include="Assets\Scripts\WheelVehicle.cs" />
     <None Include="Assets\Imports\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
     <None Include="Assets\Imports\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
