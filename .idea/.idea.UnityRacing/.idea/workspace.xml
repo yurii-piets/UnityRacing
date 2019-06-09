@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70f03b0a-34bd-429d-aeef-8f5aea6c6fe1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityRacing/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityRacing/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityRacing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityRacing/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Imports/C_Touring/Prefabs/GameTouring.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/C_Touring/Prefabs/GameTouring.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MapSettings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MapSettings.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MercedesCarController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MercedesCarController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Imports/C_Mercedes/Civilian_vehicle_05/Prefab/Custom.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/C_Mercedes/Civilian_vehicle_05/Prefab/Custom.prefab" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,107 +15,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Imports/Standard Assets/Vehicles/Car/Scripts/CarController.cs">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Arcade_Car_Physics/Scripts/DemoScripts/CameraFollow.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="339">
-              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+              <caret line="97" column="75" selection-start-line="97" selection-start-column="75" selection-end-line="97" selection-end-column="75" />
               <folding>
-                <marker date="1556742707815" expanded="false" signature="6:32" ph="..." />
-                <marker date="1556742707815" expanded="true" signature="76:13524" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="109:193" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="222:259" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="307:13522" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="2508:3042" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="2617:2734" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="3080:3528" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="3337:3394" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="3461:3518" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="3672:3742" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="3895:3966" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="4011:4532" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="4079:4312" ph="/* gear factor is a normalised representation of the current speed within the current gear's range of speeds. ... */" />
-                <marker date="1556742707815" expanded="true" signature="4571:5073" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="4594:4732" ph="/* calculate engine revs (for display / sound) ... */" />
-                <marker date="1556742707815" expanded="true" signature="5163:6664" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="5213:5506" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="5791:5892" ph="/* Set the steer on the front wheels. ... */" />
-                <marker date="1556742707815" expanded="true" signature="6175:6259" ph="/* Set the handbrake. ... */" />
-                <marker date="1556742707815" expanded="true" signature="6291:6502" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="6698:7337" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="6799:7327" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="7401:8824" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="7480:8312" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="7659:7775" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="8353:8814" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="8469:8584" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="8624:8800" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="8861:9719" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="8911:9188" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="9374:9656" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="9819:10041" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="10052:10304" ph="/* checks if the wheels are spinning and is so does three things ... */" />
-                <marker date="1556742707815" expanded="true" signature="10345:11473" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="10434:11463" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="10734:11156" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="10829:10961" ph="/* avoiding all four tires screeching at the same time ... */" />
-                <marker date="1556742707815" expanded="true" signature="11009:11108" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="11268:11355" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="11617:12736" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="11694:12726" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="11853:12030" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="12791:13236" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="12869:12956" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="12973:13226" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="13111:13212" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="13281:13516" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="13331:13480" ph="{...}" />
-                <marker date="1556742707815" expanded="true" signature="13397:13466" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Imports/Standard Assets/Vehicles/Car/Scripts/CarAudio.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1030">
-              <folding>
-                <marker date="1520267393000" expanded="false" signature="6:67" ph="..." />
-                <marker date="1520267393000" expanded="true" signature="111:8904" ph="{...}" />
-                <marker date="1520267393000" expanded="true" signature="202:8902" ph="{...}" />
-                <marker date="1520267393000" expanded="true" signature="217:1290" ph="/* This script reads some of the car's current properties and plays sounds accordingly. ... */" />
-                <marker date="1520267393000" expanded="true" signature="1363:1471" ph="{...}" />
-                <marker date="1520267393000" expanded="true" signature="3536:4289" ph="{...}" />
-                <marker date="1520267393000" expanded="true" signature="3952:4183" ph="{...}" />
-                <marker date="1520267393000" expanded="true" signature="4324:4563" ph="{...}" />
-                <marker date="1520267393000" expanded="true" signature="4455:4516" ph="{...}" />
-                <marker date="1520267393000" expanded="true" signature="4638:7947" ph="{...}" />
-                <marker date="1520267393000" expanded="true" signature="4955:5012" ph="{...}" />
-                <marker date="1520267393000" expanded="true" signature="5186:5244" ph="{...}" />
-                <marker date="1520267393000" expanded="true" signature="5277:7937" ph="{...}" />
-                <marker date="1520267393000" expanded="true" signature="5707:6018" ph="{...}" />
-                <marker date="1520267393000" expanded="true" signature="6039:7923" ph="{...}" />
-                <marker date="1520267393000" expanded="true" signature="6078:6204" ph="/* for 4 channel engine sound, it's a little more complex: ... */" />
-                <marker date="1520267393000" expanded="true" signature="8080:8654" ph="{...}" />
-                <marker date="1520267393000" expanded="true" signature="8825:8896" ph="{...}" />
+                <marker date="1560044188236" expanded="true" signature="0:153" ph="/* This code is part of Arcade Car Physics for Unity by Saarg (2018) ... */" />
+                <marker date="1560044188236" expanded="false" signature="160:273" ph="..." />
+                <marker date="1560044188236" expanded="true" signature="308:3181" ph="{...}" />
+                <marker date="1560044188236" expanded="true" signature="353:3179" ph="{...}" />
+                <marker date="1560044188236" expanded="true" signature="1112:1152" ph="{...}" />
+                <marker date="1560044188236" expanded="true" signature="1244:1665" ph="{...}" />
+                <marker date="1560044188236" expanded="true" signature="1300:1450" ph="{...}" />
+                <marker date="1560044188236" expanded="true" signature="1383:1445" ph="{...}" />
+                <marker date="1560044188236" expanded="true" signature="1591:1661" ph="{...}" />
+                <marker date="1560044188236" expanded="true" signature="1688:3176" ph="{...}" />
+                <marker date="1560044188236" expanded="true" signature="2152:2190" ph="{...}" />
+                <marker date="1560044188236" expanded="true" signature="2735:2830" ph="{...}" />
+                <marker date="1560044188236" expanded="true" signature="2903:3095" ph="{...}" />
+                <marker date="1560044188236" expanded="true" signature="3131:3168" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Imports/Standard Assets/Vehicles/Car/Scripts/CarUserControl.cs">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C7033418-969C-409C-8CD1-4950555A0E6C/87/d9a92f33/Vector3.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-18">
-              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-              <folding>
-                <marker date="1556749084125" expanded="false" signature="6:78" ph="..." />
-                <marker date="1556749084125" expanded="true" signature="122:871" ph="{...}" />
-                <marker date="1556749084125" expanded="true" signature="219:869" ph="{...}" />
-                <marker date="1556749084125" expanded="true" signature="330:439" ph="{...}" />
-                <marker date="1556749084125" expanded="true" signature="476:863" ph="{...}" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="206" column="9" selection-start-line="206" selection-start-column="6" selection-end-line="206" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -129,36 +56,35 @@
       <find>speed</find>
       <find>SceneManager.LoadScene(&quot;TrackSelectionMenu&quot;)</find>
       <find>sound</find>
+      <find>camera</find>
+      <find>[0-9]</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MapController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/race-track-lake/Textures/arrow-green.png.meta" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerSelection.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C7033418-969C-409C-8CD1-4950555A0E6C/7e/e7b73019/Time.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Imports/Character Selector/Scripts/Scroll.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MapSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Imports/race-track-lake/race-track-lake/Textures/arrow-green.png.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C7033418-969C-409C-8CD1-4950555A0E6C/65/c6317402/Transform.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Imports/Standard Assets/Vehicles/Car/Scripts/CarUserControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Imports/Standard Assets/Vehicles/Car/Scripts/CarAudio.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C7033418-969C-409C-8CD1-4950555A0E6C/87/d9a92f33/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MapController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Imports/Standard Assets/Vehicles/Car/Scripts/CarController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/race-track-lake/Textures/arrow-green.png.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FollowController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MapSelection.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Arcade_Car_Physics/Scripts/WheelVehicle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Arcade_Car_Physics/Scripts/DemoScripts/CameraFollow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TimeUpdate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C7033418-969C-409C-8CD1-4950555A0E6C/fc/86ecf20c/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerSelection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C7033418-969C-409C-8CD1-4950555A0E6C/7e/e7b73019/Time.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imports/Character Selector/Scripts/Scroll.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -173,6 +99,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Game.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MapController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MapSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Arcade_Car_Physics/Scripts/DemoScripts/CameraFollow.cs" />
       </list>
     </option>
   </component>
@@ -195,9 +122,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -208,42 +134,20 @@
             <path>
               <item name="" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="8711f2a6:AssetsRoot" />
-              <item name="Imports" type="1045f7f1:UnityExplorerNode" />
+              <item name="Arcade_Car_Physics" type="1045f7f1:UnityExplorerNode" />
             </path>
             <path>
               <item name="" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="8711f2a6:AssetsRoot" />
-              <item name="Imports" type="1045f7f1:UnityExplorerNode" />
-              <item name="Standard Assets" type="1045f7f1:UnityExplorerNode" />
-            </path>
-            <path>
-              <item name="" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="8711f2a6:AssetsRoot" />
-              <item name="Imports" type="1045f7f1:UnityExplorerNode" />
-              <item name="Standard Assets" type="1045f7f1:UnityExplorerNode" />
-              <item name="Vehicles" type="1045f7f1:UnityExplorerNode" />
-            </path>
-            <path>
-              <item name="" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="8711f2a6:AssetsRoot" />
-              <item name="Imports" type="1045f7f1:UnityExplorerNode" />
-              <item name="Standard Assets" type="1045f7f1:UnityExplorerNode" />
-              <item name="Vehicles" type="1045f7f1:UnityExplorerNode" />
-              <item name="Car" type="1045f7f1:UnityExplorerNode" />
-            </path>
-            <path>
-              <item name="" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="8711f2a6:AssetsRoot" />
-              <item name="Imports" type="1045f7f1:UnityExplorerNode" />
-              <item name="Standard Assets" type="1045f7f1:UnityExplorerNode" />
-              <item name="Vehicles" type="1045f7f1:UnityExplorerNode" />
-              <item name="Car" type="1045f7f1:UnityExplorerNode" />
+              <item name="Arcade_Car_Physics" type="1045f7f1:UnityExplorerNode" />
               <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
             </path>
             <path>
               <item name="" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Arcade_Car_Physics" type="1045f7f1:UnityExplorerNode" />
               <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="DemoScripts" type="1045f7f1:UnityExplorerNode" />
             </path>
           </expand>
           <select />
@@ -251,8 +155,9 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -307,7 +212,8 @@
       <workItem from="1558902499766" duration="947000" />
       <workItem from="1558962442794" duration="1523000" />
       <workItem from="1558966710614" duration="82000" />
-      <workItem from="1559991692322" duration="17354000" />
+      <workItem from="1559991692322" duration="19803000" />
+      <workItem from="1560039697044" duration="3660000" />
     </task>
     <task id="LOCAL-00001" summary="scene refactor">
       <created>1560001387329</created>
@@ -320,7 +226,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30635000" />
+    <option name="totallyTimeSpent" value="36744000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -335,20 +241,20 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19509594" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19722815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.40405118" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39658847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32942432" />
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.32942432" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.17697228" />
+      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.15245202" />
       <window_info anchor="bottom" id="Unity" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Unit Tests" order="13" weight="0.32942432" />
@@ -430,13 +336,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C7033418-969C-409C-8CD1-4950555A0E6C/87/d9a92f33/Vector3.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MainMenu.cs" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C7033418-969C-409C-8CD1-4950555A0E6C/65/c6317402/Transform.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -452,9 +351,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Game.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/TimeUpdate.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -468,13 +365,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CarSelection.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CarSelection.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerSelection.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -580,13 +471,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MercedesCarController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MercedesCarController.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MapSettings.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -599,24 +484,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Imports/Standard Assets/Vehicles/Car/Scripts/CarUserControl.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Imports/Standard Assets/Vehicles/Car/Scripts/CarAudio.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        <state relative-caret-position="704">
+          <caret line="62" column="13" lean-forward="true" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
           <folding>
-            <marker date="1556749084125" expanded="false" signature="6:78" ph="..." />
-            <marker date="1556749084125" expanded="true" signature="122:871" ph="{...}" />
-            <marker date="1556749084125" expanded="true" signature="219:869" ph="{...}" />
-            <marker date="1556749084125" expanded="true" signature="330:439" ph="{...}" />
-            <marker date="1556749084125" expanded="true" signature="476:863" ph="{...}" />
+            <marker date="1520267393000" expanded="false" signature="6:67" ph="..." />
+            <marker date="1520267393000" expanded="true" signature="111:8904" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="202:8902" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="217:1290" ph="/* This script reads some of the car's current properties and plays sounds accordingly. ... */" />
+            <marker date="1520267393000" expanded="true" signature="1363:1471" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="3536:4289" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="3952:4183" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="4324:4563" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="4455:4516" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="4638:7947" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="4955:5012" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="5186:5244" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="5277:7937" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="5707:6018" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="6039:7923" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="6078:6204" ph="/* for 4 channel engine sound, it's a little more complex: ... */" />
+            <marker date="1520267393000" expanded="true" signature="8080:8654" ph="{...}" />
+            <marker date="1520267393000" expanded="true" signature="8825:8896" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Arcade_Car_Physics/Scripts/WheelVehicle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="137" column="21" selection-start-line="137" selection-start-column="21" selection-end-line="137" selection-end-column="21" />
+          <folding>
+            <marker date="1554301196000" expanded="true" signature="0:153" ph="/* This code is part of Arcade Car Physics for Unity by Saarg (2018) ... */" />
+            <marker date="1554301196000" expanded="false" signature="160:246" ph="..." />
+            <marker date="1554301196000" expanded="true" signature="319:13790" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="409:13788" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="1103:1255" ph="/* Turn input curve: x real input, y value used ... */" />
+            <marker date="1554301196000" expanded="true" signature="1833:2239" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="1839:2238" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="2058:2197" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="2279:2607" ph="/* Motor torque represent the torque sent to the wheels by the motor with x: speed in km/h and y: torque ... */" />
+            <marker date="1554301196000" expanded="true" signature="4279:4560" ph="/* The center of mass is set at the start and changes the car behavior A LOT ... */" />
+            <marker date="1554301196000" expanded="true" signature="6712:6853" ph="/* The force applied to the car when boosting ... */" />
+            <marker date="1554301196000" expanded="true" signature="7571:8371" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="7689:7750" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="7971:8062" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="8288:8361" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="8438:8972" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="8513:8791" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="8833:8962" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="9039:12965" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="9219:9832" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="9324:9439" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="9913:10028" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="10081:10148" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="10201:10502" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="10271:10488" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="10590:10828" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="10664:10814" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="10845:11039" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="10915:11025" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="11098:11247" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="11326:11873" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="11565:11731" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="11644:11713" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="11800:11859" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="11959:12125" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="12038:12107" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="12193:12252" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="12326:12856" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="13050:13247" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="13292:13339" ph="{...}" />
+            <marker date="1554301196000" expanded="true" signature="13643:13782" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Imports/Standard Assets/Vehicles/Car/Scripts/CarController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        <state relative-caret-position="41">
+          <caret line="116" column="21" selection-start-line="116" selection-start-column="21" selection-end-line="116" selection-end-column="21" />
           <folding>
             <marker date="1556742707815" expanded="false" signature="6:32" ph="..." />
             <marker date="1556742707815" expanded="true" signature="76:13524" ph="{...}" />
@@ -672,28 +620,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Imports/Standard Assets/Vehicles/Car/Scripts/CarAudio.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Imports/Standard Assets/Vehicles/Car/Scripts/CarUserControl.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1030">
+        <state relative-caret-position="85">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
           <folding>
-            <marker date="1520267393000" expanded="false" signature="6:67" ph="..." />
-            <marker date="1520267393000" expanded="true" signature="111:8904" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="202:8902" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="217:1290" ph="/* This script reads some of the car's current properties and plays sounds accordingly. ... */" />
-            <marker date="1520267393000" expanded="true" signature="1363:1471" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="3536:4289" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="3952:4183" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="4324:4563" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="4455:4516" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="4638:7947" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="4955:5012" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="5186:5244" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="5277:7937" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="5707:6018" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="6039:7923" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="6078:6204" ph="/* for 4 channel engine sound, it's a little more complex: ... */" />
-            <marker date="1520267393000" expanded="true" signature="8080:8654" ph="{...}" />
-            <marker date="1520267393000" expanded="true" signature="8825:8896" ph="{...}" />
+            <marker date="1556749084125" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556749084125" expanded="true" signature="122:871" ph="{...}" />
+            <marker date="1556749084125" expanded="true" signature="219:869" ph="{...}" />
+            <marker date="1556749084125" expanded="true" signature="330:439" ph="{...}" />
+            <marker date="1556749084125" expanded="true" signature="476:863" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C7033418-969C-409C-8CD1-4950555A0E6C/87/d9a92f33/Vector3.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="206" column="9" selection-start-line="206" selection-start-column="6" selection-end-line="206" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Arcade_Car_Physics/Scripts/DemoScripts/CameraFollow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="97" column="75" selection-start-line="97" selection-start-column="75" selection-end-line="97" selection-end-column="75" />
+          <folding>
+            <marker date="1560044188236" expanded="true" signature="0:153" ph="/* This code is part of Arcade Car Physics for Unity by Saarg (2018) ... */" />
+            <marker date="1560044188236" expanded="false" signature="160:273" ph="..." />
+            <marker date="1560044188236" expanded="true" signature="308:3181" ph="{...}" />
+            <marker date="1560044188236" expanded="true" signature="353:3179" ph="{...}" />
+            <marker date="1560044188236" expanded="true" signature="1112:1152" ph="{...}" />
+            <marker date="1560044188236" expanded="true" signature="1244:1665" ph="{...}" />
+            <marker date="1560044188236" expanded="true" signature="1300:1450" ph="{...}" />
+            <marker date="1560044188236" expanded="true" signature="1383:1445" ph="{...}" />
+            <marker date="1560044188236" expanded="true" signature="1591:1661" ph="{...}" />
+            <marker date="1560044188236" expanded="true" signature="1688:3176" ph="{...}" />
+            <marker date="1560044188236" expanded="true" signature="2152:2190" ph="{...}" />
+            <marker date="1560044188236" expanded="true" signature="2735:2830" ph="{...}" />
+            <marker date="1560044188236" expanded="true" signature="2903:3095" ph="{...}" />
+            <marker date="1560044188236" expanded="true" signature="3131:3168" ph="{...}" />
           </folding>
         </state>
       </provider>

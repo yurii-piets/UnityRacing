@@ -7,6 +7,23 @@
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Arcade_Car_Physics" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="DemoScripts" t="Include">
+              <e p="CameraFollow.cs" t="Include" />
+              <e p="CheckPointEvent.cs" t="Include" />
+              <e p="RaceTrackCheckpointsManager.cs" t="Include" />
+            </e>
+            <e p="EngineSoundManager.cs" t="Include" />
+            <e p="Ghost.cs" t="Include" />
+            <e p="Suspension.cs" t="Include" />
+            <e p="Trails" t="Include">
+              <e p="Trail.cs" t="Include" />
+              <e p="TrailEmitter.cs" t="Include" />
+            </e>
+            <e p="WheelVehicle.cs" t="Include" />
+          </e>
+        </e>
         <e p="Imports" t="Include">
           <e p="C_Sports" t="Include">
             <e p="Readme.txt" t="Include" />

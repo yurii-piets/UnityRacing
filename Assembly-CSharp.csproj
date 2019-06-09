@@ -59,6 +59,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Arcade_Car_Physics\Scripts\DemoScripts\CameraFollow.cs" />
+    <Compile Include="Assets\Arcade_Car_Physics\Scripts\DemoScripts\CheckPointEvent.cs" />
+    <Compile Include="Assets\Arcade_Car_Physics\Scripts\DemoScripts\RaceTrackCheckpointsManager.cs" />
+    <Compile Include="Assets\Arcade_Car_Physics\Scripts\EngineSoundManager.cs" />
+    <Compile Include="Assets\Arcade_Car_Physics\Scripts\Ghost.cs" />
+    <Compile Include="Assets\Arcade_Car_Physics\Scripts\Suspension.cs" />
+    <Compile Include="Assets\Arcade_Car_Physics\Scripts\Trails\Trail.cs" />
+    <Compile Include="Assets\Arcade_Car_Physics\Scripts\Trails\TrailEmitter.cs" />
+    <Compile Include="Assets\Arcade_Car_Physics\Scripts\WheelVehicle.cs" />
     <Compile Include="Assets\Imports\Character Selector\Scripts\Scroll.cs" />
     <Compile Include="Assets\Imports\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
     <Compile Include="Assets\Imports\SampleScenes\Menu\Scripts\PauseMenu.cs" />
