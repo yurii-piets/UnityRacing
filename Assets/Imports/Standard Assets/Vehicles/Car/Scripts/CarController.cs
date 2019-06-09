@@ -50,7 +50,12 @@ namespace UnityStandardAssets.Vehicles.Car
         public bool Skidding { get; private set; }
         public float BrakeInput { get; private set; }
         public float CurrentSteerAngle{ get { return m_SteerAngle; }}
-        public float CurrentSpeed{ get { return m_Rigidbody.velocity.magnitude*2.23693629f; }}
+        public float CurrentSpeed
+        {
+            get { return m_Rigidbody.velocity.magnitude*2.23693629f; }
+            set { CurrentSpeed = value; }
+        }
+
         public float MaxSpeed{get { return m_Topspeed; }}
         public float Revs { get; private set; }
         public float AccelInput { get; private set; }
@@ -80,7 +85,8 @@ namespace UnityStandardAssets.Vehicles.Car
             }
             gameObject.transform.position = MapSettings.mapSettings[PlayerSelection.selectedSceneId].start;
             gameObject.transform.rotation = MapSettings.mapSettings[PlayerSelection.selectedSceneId].rotation;
-            Start();
+            StopAllCoroutines();
+            m_Rigidbody.velocity = Vector3.zero;
         }
 
 
