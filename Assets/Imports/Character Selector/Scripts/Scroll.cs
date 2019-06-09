@@ -41,7 +41,7 @@ public class Scroll : MonoBehaviour
                     instatiatedObj[i-1].transform.position.y, instatiatedObj[i-1].transform.position.z), Quaternion.identity);
             instatiatedObj[i].transform.parent = parentScroll.transform;
             instatiatedObj[i].transform.Rotate(-10, 0, 0);
-            defaultScale[i] = new Vector3(instatiatedObj[i].transform.localScale.x - 25, instatiatedObj[i].transform.localScale.y - 25, instatiatedObj[i].transform.localScale.z - 25);
+            defaultScale[i] = new Vector3(instatiatedObj[i].transform.localScale.x - 25, instatiatedObj[i].transform.localScale.y, instatiatedObj[i].transform.localScale.z);
             bigScale[i] = new Vector3(instatiatedObj[i].transform.localScale.x + SCALE, instatiatedObj[i].transform.localScale.y + SCALE, instatiatedObj[i].transform.localScale.z + SCALE);
         }
         for(int y = 0; y < amount + 1; y++)
