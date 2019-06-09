@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70f03b0a-34bd-429d-aeef-8f5aea6c6fe1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityRacing/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityRacing/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityRacing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityRacing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Imports/C_Mercedes/Civilian_vehicle_05/Prefab/Custom.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/C_Mercedes/Civilian_vehicle_05/Prefab/Custom.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Imports/C_Sports/Vehicle/SportCar20/Prefabs/SportCar20_Driver_EU.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/C_Sports/Vehicle/SportCar20/Prefabs/SportCar20_Driver_EU.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Imports/C_Touring/Prefabs/GameTouring.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/C_Touring/Prefabs/GameTouring.prefab" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,23 +17,23 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Arcade_Car_Physics/Scripts/DemoScripts/CameraFollow.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="97" column="75" selection-start-line="97" selection-start-column="75" selection-end-line="97" selection-end-column="75" />
+            <state relative-caret-position="346">
+              <caret line="97" column="39" lean-forward="true" selection-start-line="97" selection-start-column="39" selection-end-line="97" selection-end-column="39" />
               <folding>
-                <marker date="1560044188236" expanded="true" signature="0:153" ph="/* This code is part of Arcade Car Physics for Unity by Saarg (2018) ... */" />
-                <marker date="1560044188236" expanded="false" signature="160:273" ph="..." />
-                <marker date="1560044188236" expanded="true" signature="308:3181" ph="{...}" />
-                <marker date="1560044188236" expanded="true" signature="353:3179" ph="{...}" />
-                <marker date="1560044188236" expanded="true" signature="1112:1152" ph="{...}" />
-                <marker date="1560044188236" expanded="true" signature="1244:1665" ph="{...}" />
-                <marker date="1560044188236" expanded="true" signature="1300:1450" ph="{...}" />
-                <marker date="1560044188236" expanded="true" signature="1383:1445" ph="{...}" />
-                <marker date="1560044188236" expanded="true" signature="1591:1661" ph="{...}" />
-                <marker date="1560044188236" expanded="true" signature="1688:3176" ph="{...}" />
-                <marker date="1560044188236" expanded="true" signature="2152:2190" ph="{...}" />
-                <marker date="1560044188236" expanded="true" signature="2735:2830" ph="{...}" />
-                <marker date="1560044188236" expanded="true" signature="2903:3095" ph="{...}" />
-                <marker date="1560044188236" expanded="true" signature="3131:3168" ph="{...}" />
+                <marker date="1560044290761" expanded="true" signature="0:153" ph="/* This code is part of Arcade Car Physics for Unity by Saarg (2018) ... */" />
+                <marker date="1560044290761" expanded="false" signature="160:273" ph="..." />
+                <marker date="1560044290761" expanded="true" signature="308:3183" ph="{...}" />
+                <marker date="1560044290761" expanded="true" signature="353:3181" ph="{...}" />
+                <marker date="1560044290761" expanded="true" signature="1112:1152" ph="{...}" />
+                <marker date="1560044290761" expanded="true" signature="1244:1665" ph="{...}" />
+                <marker date="1560044290761" expanded="true" signature="1300:1450" ph="{...}" />
+                <marker date="1560044290761" expanded="true" signature="1383:1445" ph="{...}" />
+                <marker date="1560044290761" expanded="true" signature="1591:1661" ph="{...}" />
+                <marker date="1560044290761" expanded="true" signature="1688:3178" ph="{...}" />
+                <marker date="1560044290761" expanded="true" signature="2152:2190" ph="{...}" />
+                <marker date="1560044290761" expanded="true" signature="2736:2832" ph="{...}" />
+                <marker date="1560044290761" expanded="true" signature="2905:3097" ph="{...}" />
+                <marker date="1560044290761" expanded="true" signature="3133:3170" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -213,7 +212,7 @@
       <workItem from="1558962442794" duration="1523000" />
       <workItem from="1558966710614" duration="82000" />
       <workItem from="1559991692322" duration="19803000" />
-      <workItem from="1560039697044" duration="3660000" />
+      <workItem from="1560039697044" duration="3881000" />
     </task>
     <task id="LOCAL-00001" summary="scene refactor">
       <created>1560001387329</created>
@@ -226,7 +225,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36744000" />
+    <option name="totallyTimeSpent" value="36965000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -238,10 +237,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19722815" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19722815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -254,7 +253,7 @@
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.32942432" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.15245202" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.15245202" />
       <window_info anchor="bottom" id="Unity" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Unit Tests" order="13" weight="0.32942432" />
@@ -643,23 +642,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Arcade_Car_Physics/Scripts/DemoScripts/CameraFollow.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="97" column="75" selection-start-line="97" selection-start-column="75" selection-end-line="97" selection-end-column="75" />
+        <state relative-caret-position="346">
+          <caret line="97" column="39" lean-forward="true" selection-start-line="97" selection-start-column="39" selection-end-line="97" selection-end-column="39" />
           <folding>
-            <marker date="1560044188236" expanded="true" signature="0:153" ph="/* This code is part of Arcade Car Physics for Unity by Saarg (2018) ... */" />
-            <marker date="1560044188236" expanded="false" signature="160:273" ph="..." />
-            <marker date="1560044188236" expanded="true" signature="308:3181" ph="{...}" />
-            <marker date="1560044188236" expanded="true" signature="353:3179" ph="{...}" />
-            <marker date="1560044188236" expanded="true" signature="1112:1152" ph="{...}" />
-            <marker date="1560044188236" expanded="true" signature="1244:1665" ph="{...}" />
-            <marker date="1560044188236" expanded="true" signature="1300:1450" ph="{...}" />
-            <marker date="1560044188236" expanded="true" signature="1383:1445" ph="{...}" />
-            <marker date="1560044188236" expanded="true" signature="1591:1661" ph="{...}" />
-            <marker date="1560044188236" expanded="true" signature="1688:3176" ph="{...}" />
-            <marker date="1560044188236" expanded="true" signature="2152:2190" ph="{...}" />
-            <marker date="1560044188236" expanded="true" signature="2735:2830" ph="{...}" />
-            <marker date="1560044188236" expanded="true" signature="2903:3095" ph="{...}" />
-            <marker date="1560044188236" expanded="true" signature="3131:3168" ph="{...}" />
+            <marker date="1560044290761" expanded="true" signature="0:153" ph="/* This code is part of Arcade Car Physics for Unity by Saarg (2018) ... */" />
+            <marker date="1560044290761" expanded="false" signature="160:273" ph="..." />
+            <marker date="1560044290761" expanded="true" signature="308:3183" ph="{...}" />
+            <marker date="1560044290761" expanded="true" signature="353:3181" ph="{...}" />
+            <marker date="1560044290761" expanded="true" signature="1112:1152" ph="{...}" />
+            <marker date="1560044290761" expanded="true" signature="1244:1665" ph="{...}" />
+            <marker date="1560044290761" expanded="true" signature="1300:1450" ph="{...}" />
+            <marker date="1560044290761" expanded="true" signature="1383:1445" ph="{...}" />
+            <marker date="1560044290761" expanded="true" signature="1591:1661" ph="{...}" />
+            <marker date="1560044290761" expanded="true" signature="1688:3178" ph="{...}" />
+            <marker date="1560044290761" expanded="true" signature="2152:2190" ph="{...}" />
+            <marker date="1560044290761" expanded="true" signature="2736:2832" ph="{...}" />
+            <marker date="1560044290761" expanded="true" signature="2905:3097" ph="{...}" />
+            <marker date="1560044290761" expanded="true" signature="3133:3170" ph="{...}" />
           </folding>
         </state>
       </provider>
