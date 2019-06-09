@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityStandardAssets.CrossPlatformInput;
 
 namespace UnityStandardAssets.Vehicles.Car
@@ -19,6 +20,17 @@ namespace UnityStandardAssets.Vehicles.Car
 
         private void FixedUpdate()
         {
+            if (Input.GetKeyDown("escape"))
+            {
+                SceneManager.LoadScene("MainMenu");
+            }
+
+            bool reset = false;
+            if (Input.GetKeyDown("r"))
+            {
+                m_Car.Reset();
+            }
+
             // pass the input to the car!
             float h = CrossPlatformInputManager.GetAxis("Horizontal");
             float v = CrossPlatformInputManager.GetAxis("Vertical");

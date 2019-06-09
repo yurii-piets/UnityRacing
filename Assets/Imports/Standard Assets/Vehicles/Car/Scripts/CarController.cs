@@ -56,7 +56,7 @@ namespace UnityStandardAssets.Vehicles.Car
         public float AccelInput { get; private set; }
 
         // Use this for initialization
-        private void Start()
+        public void Start()
         {
             m_WheelMeshLocalRotations = new Quaternion[4];
             for (int i = 0; i < 4; i++)
@@ -69,6 +69,18 @@ namespace UnityStandardAssets.Vehicles.Car
 
             m_Rigidbody = GetComponent<Rigidbody>();
             m_CurrentTorque = m_FullTorqueOverAllWheels - (m_TractionControl*m_FullTorqueOverAllWheels);
+        }
+
+        public void Reset()
+        {
+            for (int i = 0; i < 4; i++)
+            {
+                m_WheelMeshes[i].transform.position = MapSettings.mapSettings[PlayerSelection.selectedSceneId].start;
+                m_WheelMeshes[i].transform.rotation = MapSettings.mapSettings[PlayerSelection.selectedSceneId].rotation;
+            }
+            gameObject.transform.position = MapSettings.mapSettings[PlayerSelection.selectedSceneId].start;
+            gameObject.transform.rotation = MapSettings.mapSettings[PlayerSelection.selectedSceneId].rotation;
+            Start();
         }
 
 
