@@ -76,8 +76,15 @@ public class Scroll : MonoBehaviour
     }
     public void ButtonClick()
     {
-        PlayerSelection.selectedCarId = GetSelectedCarId();
-        SceneManager.LoadScene("GameScene");
+        if (EventSystem.current.currentSelectedGameObject.name == "Back")
+        {
+            SceneManager.LoadScene("TrackSelectionMenu");
+        }
+        else
+        {
+            PlayerSelection.selectedCarId = GetSelectedCarId();
+            SceneManager.LoadScene("GameScene");
+        }
     }
 
     private int GetSelectedCarId()

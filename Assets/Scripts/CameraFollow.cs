@@ -10,7 +10,10 @@ using UnityEngine;
 using UnityEngine.UI;
 
 namespace VehicleBehaviour.Utils {
-	public class CameraFollow : MonoBehaviour {
+	public class CameraFollow : MonoBehaviour
+	{
+
+		private const float CAMERA_Y_LEVEL = 4f;
 		// Should the camera follow the target
 		[SerializeField] bool follow = false;
 		public bool Follow { get { return follow; } set { follow = value; } }
@@ -94,8 +97,8 @@ namespace VehicleBehaviour.Utils {
 			transform.rotation = Quaternion.Lerp(curRot, transform.rotation, Time.fixedDeltaTime * lerpRotationMultiplier);
 
 			// Keep camera above the y:0.5f to prevent camera going underground
-			if (transform.position.y < 1.15f) {
-				transform.position = new Vector3(transform.position.x , 1.15f, transform.position.z);
+			if (transform.position.y < CAMERA_Y_LEVEL) {
+				transform.position = new Vector3(transform.position.x , CAMERA_Y_LEVEL, transform.position.z);
 			}
 
 			// Update speedometer

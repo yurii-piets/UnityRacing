@@ -9,6 +9,11 @@ public class MapSelection : MonoBehaviour
         SceneManager.LoadScene("CarSelectionMenu");
     }
 
+    public void Back()
+    {
+        SceneManager.LoadScene("MainMenu");
+    }
+
     public void Start()
     {
            
