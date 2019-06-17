@@ -17,6 +17,7 @@ public class TimeUpdate : MonoBehaviour
         timeText = GetComponent<Text>() as Text;
         startTime = Time.time;
         timeStarted = true;
+        resetTime();
         //timeStarted = false;
 
     }
@@ -25,6 +26,8 @@ public class TimeUpdate : MonoBehaviour
     void Update()
     {
     	if(timeStarted) {
+
+    		//resetTime();
     		float t = Time.time - startTime;
 
             minutes = (int)(t / 60f);
@@ -36,6 +39,13 @@ public class TimeUpdate : MonoBehaviour
 
     void resetTime() {
     	startTime = Time.time;
+    }
+
+    void setTimerFalse() {
+    	timeStarted = false;
+    }
+    void setTimerTrue() {
+    	timeStarted = true;
     }
 
 }

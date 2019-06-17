@@ -158,6 +158,7 @@
      <Compile Include="Assets\Imports\Standard Assets\Vehicles\Car\Scripts\Suspension.cs" />
      <Compile Include="Assets\Imports\Standard Assets\Vehicles\Car\Scripts\WheelEffects.cs" />
      <Compile Include="Assets\Scripts\CameraFollow.cs" />
+     <Compile Include="Assets\Scripts\FinishLineReset.cs" />
      <Compile Include="Assets\Scripts\FollowController.cs" />
      <Compile Include="Assets\Scripts\Game.cs" />
      <Compile Include="Assets\Scripts\MainMenu.cs" />
